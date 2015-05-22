@@ -24,4 +24,8 @@ dockerun -d \
 	-p 50000-50020:10000-10020 jitsi-videobridge
 ```
 
+<<<<<<< HEAD
 will start jitsi-videobridge service for "example.com" XMPP domain, connected to XMPP server 192.168.59.103 on port 49171 (for XEP-0114), will expose media ports 10000-10020 and map to host ports 50000-50020
+=======
+will start jitsi-videobridge service for "example.com" XMPP domain, connected to XMPP server 192.168.59.103 on port 49171 (for XEP-0114), will expose media ports 10000-10020 and map to host ports 50000-50020
+>>>>>>> 4efd77ba4b63d42337641210192f387142c6ff29
