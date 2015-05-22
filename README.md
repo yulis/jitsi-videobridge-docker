@@ -15,7 +15,7 @@ Configuration options:
 e.g.:
 
 ```
-dockerun -d \
+docker run -d \
 	-e XMPP_PORT=49171 \
 	-e XMPP_HOST=192.168.59.103 \
 	-e VIDEOBRIDGE_SECRET=AIOEfhuabeu34g8 \
